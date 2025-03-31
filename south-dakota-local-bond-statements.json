@@ -1,29 +1,5 @@
 [
     {
-        "issuer": "Jon D. Baker",
-        "date_issued": "",
-        "date_filed": "20210614",
-        "source_url": "https://sdsos.gov/general-information/miscellaneous-forms/local-bond-statements/search/Document.aspx?CabId=523E2A2A&DocGuid=20210614-1528-5970-7457-20b12a80f05a",
-        "guid": "20210614-1528-5970-7457-20b12a80f05a",
-        "internet_archive_identifier": "south-dakota-local-bond-statements-20210614-1528-5970-7457-20b12a80f05a",
-        "url_internet_archive_pdf": "https://archive.org/download/south-dakota-local-bond-statements-20210614-1528-5970-7457-20b12a80f05a/20210614-1528-5970-7457-20b12a80f05a.pdf",
-        "pages": 2,
-        "filesize_bytes": 1322004,
-        "filesize_formatted": "1.3 MB"
-    },
-    {
-        "issuer": "Paul R. Sheehy",
-        "date_issued": "",
-        "date_filed": "20210614",
-        "source_url": "https://sdsos.gov/general-information/miscellaneous-forms/local-bond-statements/search/Document.aspx?CabId=523E2A2A&DocGuid=20210614-1528-4172-5118-3a27e918fe16",
-        "guid": "20210614-1528-4172-5118-3a27e918fe16",
-        "internet_archive_identifier": "south-dakota-local-bond-statements-20210614-1528-4172-5118-3a27e918fe16",
-        "url_internet_archive_pdf": "https://archive.org/download/south-dakota-local-bond-statements-20210614-1528-4172-5118-3a27e918fe16/20210614-1528-4172-5118-3a27e918fe16.pdf",
-        "pages": 2,
-        "filesize_bytes": 1313805,
-        "filesize_formatted": "1.3 MB"
-    },
-    {
         "issuer": "SD Building Authority (Western Surety Co",
         "date_issued": "19860211",
         "date_filed": "19860212",

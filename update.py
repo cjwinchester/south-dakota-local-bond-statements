@@ -1060,6 +1060,12 @@ if __name__ == '__main__':
 
         # stalls downloading the page
         'b2fdca2c-eecb-41d9-8766-f793246984e9',
+
+        # misplaced athletic agent form
+        '20210614-1528-5970-7457-20b12a80f05a',
+
+        # misplaced athletic agent form
+        '20210614-1528-4172-5118-3a27e918fe16'
     ]
 
     search_url = 'https://sdsos.gov/general-information/miscellaneous-forms/local-bond-statements/search/'
